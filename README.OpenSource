@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-native-textinput-maxlength-fixed",
+        "License": "MIT",
+        "License File": "https://github.com/2017398956/react-native-textinput-maxlength-fixed/blob/main/LICENSE",
+        "Version Number": "0.1.2",
+		"Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/2017398956/react-native-textinput-maxlength-fixed",
+        "Description": "textinput-maxlength-fixed for react-native"
+    }
+]
